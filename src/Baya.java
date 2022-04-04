@@ -1,2 +1,14 @@
-public class Baya {
+public class Baya extends Objeto{
+    // Efecto
+    // Duracion
+    private String efecto;
+    private int duracion;
+
+    // Usar
+    // Si es curacion
+              // Aumentar 20 hp
+    // Si es de fuerza
+              // Aumentar ataque 20
+    // Si es velocidad
+              // Aumentar velocidad 20
 }

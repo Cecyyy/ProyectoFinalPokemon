@@ -11,6 +11,6 @@ public class Entrenador extends Personaje{
             // Escoger 2 fuertes y 1 debil aleatoriamente
            // Si no tiene fuertes, poner 3 aleaotorios
        //  Llamar al metodo pelear del pokemon
-       //
+       //ghfghfgh
 
 }
